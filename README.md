@@ -1,7 +1,9 @@
-👋 Hi, I’m Simamnkela
+👋 Hi, I’m Simamnkele
 
 🎓 Bachelor of Commerce in Information Systems & Insurance and Risk Management (Completed)
+
 💻 Aspiring Systems Analyst / Systems Developer
+
 📍 South Africa
 
 I’m passionate about designing, analysing, and building information systems that solve real-world problems. I enjoy working at the intersection of business processes and technology, translating requirements into practical, scalable system solutions.
