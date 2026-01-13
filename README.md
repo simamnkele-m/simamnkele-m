@@ -63,7 +63,9 @@ Long-term:
   - Contribute to impactful systems that improve organisational decision-making
 
 🤝 Let’s Connect
+
 💼 LinkedIn: www.linkedin.com/in/simamnkele-mthandekiso-168a5927b
+
 📧 Email: mthandekisosims@gmail.com / simmthandile6@gmail.com
 
 I’m always open to learning, collaboration, and opportunities to grow in the tech space.
