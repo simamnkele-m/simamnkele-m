@@ -1,4 +1,4 @@
-👋 Hi, I’m Simamnkele
+<h2>👋 Hi, I’m Simamnkele </h2>
 
 🎓 Bachelor of Commerce in Information Systems & Insurance and Risk Management (Completed)
 
